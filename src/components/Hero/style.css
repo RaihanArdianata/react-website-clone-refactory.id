@@ -1,0 +1,12 @@
+.eg-flick-camera{
+  display: flex;
+  align-items: center;
+}
+
+.flicking{
+  height: 100%;
+}
+
+.orangeText{
+  color: #e48800 !important;
+}
